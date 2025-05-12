@@ -32,7 +32,7 @@ def dbconnect():
     host="localhost",
     user="root",
     password="",
-    database="jyothsna_gmb_req"
+    database="localdata"
     ) 
     return mydb
 
